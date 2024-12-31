@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tweets",
+        "icon": "CiTwitter"
+    },
+    {
+        "name": "Videos",
+        "icon": "CiTwitter"
+    },
+    {
+        "name": "Documents",
+        "icon": "CiTwitter"
+    },
+    {
+        "name": "Links",
+        "icon": "CiTwitter"
+    },
+    {
+        "name": "Tags",
+        "icon": "CiTwitter"
+    },
+    {
+        "name": "Logout",
+        "icon": "CiTwitter"
+    }
+]
