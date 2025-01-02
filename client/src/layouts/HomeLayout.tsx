@@ -1,4 +1,3 @@
-import React from 'react'
 import Logo from '../componenets/Logo'
 import SubHeaders from '../componenets/SubHeaders'
 import Navbar from '../componenets/Navbar'
@@ -15,7 +14,9 @@ const HomeLayout = () => {
         </section>
         <section className='bg-gray-100 w-[85vw] h-full'>
           <Navbar/>
-          <Outlet/>
+          <div className='p-6'>
+            <Outlet/>
+          </div>
         </section>
       </main>
   )

@@ -1,5 +1,9 @@
 [
     {
+        "name": "Home",
+        "icon": "CiTwitter"
+    },
+    {
         "name": "Tweets",
         "icon": "CiTwitter"
     },
